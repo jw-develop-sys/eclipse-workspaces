@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/jameswhite/eclipse-workspaces/java/.metadata/.plugins/org.eclipse.jdt.core
+2740667779.index
+3634235024.index
